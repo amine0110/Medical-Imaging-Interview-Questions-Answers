@@ -51,7 +51,7 @@ Good luck, and happy interviewing!
 - [Q37: What is the significance of multi-task learning in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q37-what-is-the-significance-of-multi-task-learning-in-medical-imaging)
 - [Q38: Explain the role of recurrent neural networks (RNNs) in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q38-explain-the-role-of-recurrent-neural-networks-rnns-in-medical-imaging)
 - [Q39: Describe the importance of collaboration between data scientists and medical professionals in medical imaging projects.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q39-describe-the-importance-of-collaboration-between-data-scientists-and-medical-professionals-in-medical-imaging-projects)
-- [Q40: What are some recent advances and trends in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q30-what-are-some-recent-advances-and-trends-in-medical-image-analysis)
+- [Q40: What are some recent advances and trends in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q40-what-are-some-recent-advances-and-trends-in-medical-image-analysis)
 
 
 ## Q1: What is medical imaging and why is it important in healthcare?
