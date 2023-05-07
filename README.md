@@ -16,15 +16,15 @@ Good luck, and happy interviewing!
 - [Q2: What are the different types of medical imaging techniques? Explain each briefly.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q2-What-are-the-different-types-of-medical-imaging-techniques-explain-each-briefly)
 - [Q3: How do you handle missing or corrupted data in a dataset?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q3-how-do-you-handle-missing-or-corrupted-data-in-a-dataset)
 - [Q4: What is DICOM? Explain its significance in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q4-what-is-dicom-explain-its-significance-in-medical-imaging)
-- Q5: Explain the concepts of precision, recall, and F1 score in the context of medical image analysis.
-- Q6: How do you handle class imbalance in medical imaging datasets?
-- Q7: What is the role of convolutional neural networks (CNNs) in medical image analysis?
-- Q8: Explain the concept of transfer learning and its relevance in medical imaging tasks.
-- Q9: What is the difference between supervised, unsupervised, and semi-supervised learning?
-- Q10: What are some common preprocessing techniques used in medical image analysis?
-- Q11: Describe the process of data augmentation and why it's important in medical image analysis.
-- Q12: What is image segmentation? Explain its significance in medical imaging.
-- Q13: Describe the role of edge detection in medical image analysis.
+- [Q5: Explain the concepts of precision, recall, and F1 score in the context of medical image analysis.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q5-explain-the-concepts-of-precision-recall-and-f1-score-in-the-context-of-medical-image-analysis)
+- [Q6: How do you handle class imbalance in medical imaging datasets?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q6-how-do-you-handle-class-imbalance-in-medical-imaging-datasets)
+- [Q7: What is the role of convolutional neural networks (CNNs) in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q7-what-is-the-role-of-convolutional-neural-networks-cnns-in-medical-image-analysis)
+- [Q8: Explain the concept of transfer learning and its relevance in medical imaging tasks.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q8-explain-the-concept-of-transfer-learning-and-its-relevance-in-medical-imaging-tasks)
+- [Q9: What is the difference between supervised, unsupervised, and semi-supervised learning?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q9-what-is-the-difference-between-supervised-unsupervised-and-semi-supervised-learning)
+- [Q10: What are some common preprocessing techniques used in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q10-what-are-some-common-preprocessing-techniques-used-in-medical-image-analysis)
+- [Q11: Describe the process of data augmentation and why it's important in medical image analysis.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q11-describe-the-process-of-data-augmentation-and-why-its-important-in-medical-image-analysis)
+- [Q12: What is image segmentation? Explain its significance in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q12-what-is-image-segmentation-explain-its-significance-in-medical-imaging)
+- [Q13: Describe the role of edge detection in medical image analysis.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q13-describe-the-role-of-edge-detection-in-medical-image-analysis)
 - Q14: What are some common challenges faced in medical image analysis?
 - Q15: How do you evaluate the performance of a model in medical image analysis?
 - Q16: Explain the difference between semantic segmentation and instance segmentation.
