@@ -442,3 +442,8 @@ Medical image analysis is a rapidly evolving field with many recent advances and
 4. **Transfer Learning**: Transfer learning involves the transfer of knowledge from one task to another. Transfer learning can improve the efficiency and accuracy of machine learning models in medical image analysis, particularly in cases where labeled data is scarce.
 
 The rest of the answer is [here](https://pycad.co/medical-imaging-interview-questions-answers/#40).
+
+## 📩 Newsletter
+Stay up-to-date on the latest in computer vision and medical imaging! Subscribe to my newsletter now for insights and analysis on the cutting-edge developments in this exciting field.
+
+https://pycad.co/join-us/
