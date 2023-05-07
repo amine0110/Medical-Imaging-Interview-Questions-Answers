@@ -10,6 +10,50 @@ Good luck, and happy interviewing!
 
 ![pycadd_a_robot_interviewing_another_robot_for_a_job_of_a_data_s_8610018d-e09f-4bf8-8a07-3ad5b04436da](https://user-images.githubusercontent.com/37108394/236700656-9f87cf1a-be45-45c5-8a92-5e4bbacf2a43.png)
 
+# Questions
+
+- [Q1: What is medical imaging and why is it important in healthcare?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q1-what-is-medical-imaging-and-why-is-it-important-in-healthcare)
+- [Q2: What are the different types of medical imaging techniques? Explain each briefly.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q2-What-are-the-different-types-of-medical-imaging-techniques-explain-each-briefly)
+- [Q3: How do you handle missing or corrupted data in a dataset?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q3-how-do-you-handle-missing-or-corrupted-data-in-a-dataset)
+- [Q4: What is DICOM? Explain its significance in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q4-what-is-dicom-explain-its-significance-in-medical-imaging)
+- Q5: Explain the concepts of precision, recall, and F1 score in the context of medical image analysis.
+- Q6: How do you handle class imbalance in medical imaging datasets?
+- Q7: What is the role of convolutional neural networks (CNNs) in medical image analysis?
+- Q8: Explain the concept of transfer learning and its relevance in medical imaging tasks.
+- Q9: What is the difference between supervised, unsupervised, and semi-supervised learning?
+- Q10: What are some common preprocessing techniques used in medical image analysis?
+- Q11: Describe the process of data augmentation and why it's important in medical image analysis.
+- Q12: What is image segmentation? Explain its significance in medical imaging.
+- Q13: Describe the role of edge detection in medical image analysis.
+- Q14: What are some common challenges faced in medical image analysis?
+- Q15: How do you evaluate the performance of a model in medical image analysis?
+- Q16: Explain the difference between semantic segmentation and instance segmentation.
+- Q17: What is U-Net and how is it used in medical imaging?
+- Q18: Describe the process of image registration in medical imaging.
+- Q19: What is the role of Generative Adversarial Networks (GANs) in medical imaging?
+- Q20: Explain the concept of feature extraction in medical imaging.
+- Q21: How do you approach handling large datasets in medical imaging projects?
+- Q22: What are some ethical considerations in medical image analysis?
+- Q23: How do you ensure patient privacy when working with medical imaging data?
+- Q24: What is the difference between 2D, 3D, and 4D medical imaging?
+- Q25: Explain the concept of multi-modal medical imaging and its benefits.
+- Q26: How do you handle overfitting in machine learning models for medical imaging?
+- Q27: What is the role of reinforcement learning in medical imaging?
+- Q28: Describe the concept of Radiomics and its significance in medical imaging.
+- Q29: Explain the importance of data normalization in medical imaging projects.
+- Q30: What are some applications of deep learning in medical imaging?
+- Q31: How do you deal with noisy or low-quality medical images?
+- Q32: Describe some common performance metrics used in medical imaging tasks.
+- Q33: What is the role of natural language processing in medical imaging?
+- Q34: Explain the concept of computer-aided diagnosis (CAD) in medical imaging.
+- Q35: Describe the difference between image classification, object detection, and image segmentation.
+- Q36: How do you handle false positives and false negatives in medical image analysis?
+- Q37: What is the significance of multi-task learning in medical imaging?
+- Q38: Explain the role of recurrent neural networks (RNNs) in medical imaging.
+- Q39: Describe the importance of collaboration between data scientists and medical professionals in medical imaging projects.
+- Q40: What are some recent advances and trends in medical image analysis?
+
+
 ## Q1: What is medical imaging and why is it important in healthcare?
 
 Medical imaging refers to the process of creating visual representations of the interior of a body for clinical analysis and medical intervention. It encompasses a wide range of techniques, including X-rays, computed tomography (CT), magnetic resonance imaging (MRI), ultrasound, and nuclear medicine, among others.
