@@ -385,7 +385,7 @@ Computer-aided diagnosis (CAD) is a technique that uses machine learning algorit
 
 The rest of the answer is [here](https://pycad.co/medical-imaging-interview-questions-answers/#34).
 
-## 35: Describe the difference between image classification, object detection, and image segmentation.
+## Q35: Describe the difference between image classification, object detection, and image segmentation.
 
 Image classification, object detection, and image segmentation are three fundamental tasks in computer vision, including medical imaging. Here are the main differences between these three tasks:
 
