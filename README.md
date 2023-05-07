@@ -25,33 +25,33 @@ Good luck, and happy interviewing!
 - [Q11: Describe the process of data augmentation and why it's important in medical image analysis.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q11-describe-the-process-of-data-augmentation-and-why-its-important-in-medical-image-analysis)
 - [Q12: What is image segmentation? Explain its significance in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q12-what-is-image-segmentation-explain-its-significance-in-medical-imaging)
 - [Q13: Describe the role of edge detection in medical image analysis.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q13-describe-the-role-of-edge-detection-in-medical-image-analysis)
-- Q14: What are some common challenges faced in medical image analysis?
-- Q15: How do you evaluate the performance of a model in medical image analysis?
-- Q16: Explain the difference between semantic segmentation and instance segmentation.
-- Q17: What is U-Net and how is it used in medical imaging?
-- Q18: Describe the process of image registration in medical imaging.
-- Q19: What is the role of Generative Adversarial Networks (GANs) in medical imaging?
-- Q20: Explain the concept of feature extraction in medical imaging.
-- Q21: How do you approach handling large datasets in medical imaging projects?
-- Q22: What are some ethical considerations in medical image analysis?
-- Q23: How do you ensure patient privacy when working with medical imaging data?
-- Q24: What is the difference between 2D, 3D, and 4D medical imaging?
-- Q25: Explain the concept of multi-modal medical imaging and its benefits.
-- Q26: How do you handle overfitting in machine learning models for medical imaging?
-- Q27: What is the role of reinforcement learning in medical imaging?
-- Q28: Describe the concept of Radiomics and its significance in medical imaging.
-- Q29: Explain the importance of data normalization in medical imaging projects.
-- Q30: What are some applications of deep learning in medical imaging?
-- Q31: How do you deal with noisy or low-quality medical images?
-- Q32: Describe some common performance metrics used in medical imaging tasks.
-- Q33: What is the role of natural language processing in medical imaging?
-- Q34: Explain the concept of computer-aided diagnosis (CAD) in medical imaging.
-- Q35: Describe the difference between image classification, object detection, and image segmentation.
-- Q36: How do you handle false positives and false negatives in medical image analysis?
-- Q37: What is the significance of multi-task learning in medical imaging?
-- Q38: Explain the role of recurrent neural networks (RNNs) in medical imaging.
-- Q39: Describe the importance of collaboration between data scientists and medical professionals in medical imaging projects.
-- Q40: What are some recent advances and trends in medical image analysis?
+- [Q14: What are some common challenges faced in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q14-what-are-some-common-challenges-faced-in-medical-image-analysis)
+- [Q15: How do you evaluate the performance of a model in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q15-how-do-you-evaluate-the-performance-of-a-model-in-medical-image-analysis)
+- [Q16: Explain the difference between semantic segmentation and instance segmentation.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q16-explain-the-difference-between-semantic-segmentation-and-instance-segmentation)
+- [Q17: What is U-Net and how is it used in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q17-what-is-u-net-and-how-is-it-used-in-medical-imaging)
+- [Q18: Describe the process of image registration in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q18-describe-the-process-of-image-registration-in-medical-imaging)
+- [Q19: What is the role of Generative Adversarial Networks (GANs) in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q19-what-is-the-role-of-generative-adversarial-networks-gans-in-medical-imaging)
+- [Q20: Explain the concept of feature extraction in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q20-explain-the-concept-of-feature-extraction-in-medical-imaging)
+- [Q21: How do you approach handling large datasets in medical imaging projects?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q21-how-do-you-approach-handling-large-datasets-in-medical-imaging-projects)
+- [Q22: What are some ethical considerations in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q22-what-are-some-ethical-considerations-in-medical-image-analysis)
+- [Q23: How do you ensure patient privacy when working with medical imaging data?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q23-how-do-you-ensure-patient-privacy-when-working-with-medical-imaging-data)
+- [Q24: What is the difference between 2D, 3D, and 4D medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q24-what-is-the-difference-between-2d-3d-and-4d-medical-imaging)
+- [Q25: Explain the concept of multi-modal medical imaging and its benefits.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q25-explain-the-concept-of-multi-modal-medical-imaging-and-its-benefits)
+- [Q26: How do you handle overfitting in machine learning models for medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q26-how-do-you-handle-overfitting-in-machine-learning-models-for-medical-imaging)
+- [Q27: What is the role of reinforcement learning in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q27-what-is-the-role-of-reinforcement-learning-in-medical-imaging)
+- [Q28: Describe the concept of Radiomics and its significance in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q28-describe-the-concept-of-Radiomics-and-its-significance-in-medical-imaging)
+- [Q29: Explain the importance of data normalization in medical imaging projects.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q29-explain-the-importance-of-data-normalization-in-medical-imaging-projects)
+- [Q30: What are some applications of deep learning in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q30-what-are-some-applications-of-deep-learning-in-medical-imaging)
+- [Q31: How do you deal with noisy or low-quality medical images?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q31-how-do-you-deal-with-noisy-or-low-quality-medical-images)
+- [Q32: Describe some common performance metrics used in medical imaging tasks.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q32-describe-some-common-performance-metrics-used-in-medical-imaging-tasks)
+- [Q33: What is the role of natural language processing in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q33-what-is-the-role-of-natural-language-processing-in-medical-imaging)
+- [Q34: Explain the concept of computer-aided diagnosis (CAD) in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q34-explain-the-concept-of-computer-aided-diagnosis-cad-in-medical-imaging)
+- [Q35: Describe the difference between image classification, object detection, and image segmentation.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q35-describe-the-difference-between-image-classification-object-detection-and-image-segmentation)
+- [Q36: How do you handle false positives and false negatives in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q36-how-do-you-handle-false-positives-and-false-negatives-in-medical-image-analysis)
+- [Q37: What is the significance of multi-task learning in medical imaging?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q37-what-is-the-significance-of-multi-task-learning-in-medical-imaging)
+- [Q38: Explain the role of recurrent neural networks (RNNs) in medical imaging.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q38-explain-the-role-of-recurrent-neural-networks-rnns-in-medical-imaging)
+- [Q39: Describe the importance of collaboration between data scientists and medical professionals in medical imaging projects.](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q39-describe-the-importance-of-collaboration-between-data-scientists-and-medical-professionals-in-medical-imaging-projects)
+- [Q40: What are some recent advances and trends in medical image analysis?](https://github.com/amine0110/Medical-Imaging-Interview-Questions-Answers/#q30-what-are-some-recent-advances-and-trends-in-medical-image-analysis)
 
 
 ## Q1: What is medical imaging and why is it important in healthcare?
